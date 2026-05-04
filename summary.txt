@@ -1,0 +1,13 @@
+
+EXPENSE SUMMARY REPORT
+
+Total Spending: Rs.480
+
+Highest Spending Category: Food
+
+Average Daily Spending: Rs.160.00
+
+Most Used Payment Method: Cash
+
+Highest Spending Month: 2024-01
+
